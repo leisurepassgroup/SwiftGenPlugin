@@ -1,5 +1,6 @@
 {
   "extends": ["config:best-practices"],
+  "schedule": "on monday before 8am",
   "vulnerabilityAlerts": {
     "groupName": "Vulnerable Dependencies",
     "enabled": true
