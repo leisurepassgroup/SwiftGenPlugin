@@ -10,7 +10,7 @@ end
 
 # In addition to :build, for contributing
 group :development do
-  gem 'danger', '~> 8.4'
+  gem 'danger', '~> 9.0'
   gem 'rubocop', '~> 1.22'
 end
 
