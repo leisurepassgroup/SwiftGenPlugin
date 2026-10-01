@@ -1,5 +1,5 @@
 {
-  "extends": ["config:best-practices"],
+  "extends": ["config:best-practices", "github>leisurepassgroup/renovate-config"],
   "schedule": "on monday before 8am",
   "vulnerabilityAlerts": {
     "groupName": "Vulnerable Dependencies",
