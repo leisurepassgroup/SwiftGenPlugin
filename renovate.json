@@ -3,7 +3,7 @@
     "config:best-practices",
     "github>leisurepassgroup/renovate-config"
   ],
-  "schedule": "on monday before 8am",
+  "schedule": ["* 10-12 * * 1"],
   "vulnerabilityAlerts": {
     "groupName": "Vulnerable Dependencies",
     "enabled": true
